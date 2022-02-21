@@ -1,0 +1,7 @@
+1:git init
+2: [A[C[C[C[C[C[C[C
+[C[Cgit add .
+3: git commit -m ''[Dcomment[C[D'
+5:git push
+6:git pull
+7: git status
